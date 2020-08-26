@@ -1,0 +1,62 @@
+.container {
+    widows: 1024px;
+    margin: 0 auto;
+   
+    
+
+}
+
+body{
+    background-color: #efeee7;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    color:#333333;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #333333;
+}
+
+h1{
+    color: #eee;
+    font-size: 28px;
+    padding: 10px;
+    margin: 10px;
+    text-align:center;
+
+}
+
+h2{
+    font-size:24px;
+    margin:20px;
+    
+    
+    
+/* Add margins to the image so there is distance between it and the bio text. */
+
+/* Adjust the line height so it is 1.5 times the size of the font. */
+/* Make the link color #d21034. */
+}
+
+
+#main-bio {
+    float:left;
+    width:70%
+
+    
+}
+
+#contact-info{
+    float:left;
+    width:30%;
+    line-height:1.5em;
+}
+
+#bio-image{
+    float:left;
+    width:200px;
+    margin:20px;
+}
+
+a {color:#d21034;}
